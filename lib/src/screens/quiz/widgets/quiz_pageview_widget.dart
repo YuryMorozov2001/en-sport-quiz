@@ -18,7 +18,7 @@ class QuizPageViewBuilder extends StatelessWidget {
       itemBuilder: (context, index) {
         return Column(
           children: [
-            Text('question #$index'),
+            Text('question #${index + 1}'),
             Expanded(
               child: Center(
                 child: Text(
