@@ -23,7 +23,7 @@ class RemoteConfigBloc extends Bloc<RemoteConfigEvent, RemoteConfigState> {
         emit(state.copyWith(status: Status.submissionSuccess, url: url));
       } catch (e) {
         emit(state.copyWith(status: Status.submissionFailure));
-        throw Exception(e);
+        // throw Exception(e);
       }
     });
     on<FetchLocalUrl>((event, emit) async {
