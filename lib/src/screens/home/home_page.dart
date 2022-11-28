@@ -5,7 +5,7 @@ import '../../logic/checker_bloc/checker_bloc.dart';
 import '../../logic/network_state/network_state_bloc.dart';
 import '../../logic/remote_config_bloc/remote_config_bloc.dart';
 import '../quiz/quiz_page.dart';
-import '../webview/webview.dart';
+import '../webview/webview_page.dart';
 import 'widgets/needs_network_widget.dart';
 
 class HomePage extends StatefulWidget {
