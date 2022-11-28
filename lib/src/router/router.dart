@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import '../screens/quiz/quiz_page.dart';
+import '../screens/home/home_page.dart';
 
 class AppRoutes {
   static Route? onGenerateRoutes(RouteSettings settings) {
     switch (settings.name) {
       case '/':
-        return _materialRoute(const QuizPage());
+        return _materialRoute(const HomePage());
     }
     return null;
   }
