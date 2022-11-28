@@ -1,5 +1,4 @@
 import 'package:en_sport_quiz/src/const/enums.dart';
-import 'package:en_sport_quiz/src/model/quiz/quiz.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
