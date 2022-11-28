@@ -1,0 +1,112 @@
+{
+    "quiz": [
+        {
+            "question": "How long does the marathon last?",
+            "answers": [
+                "26.2 miles",
+                "26 miles",
+                "24 miles"
+            ],
+            "correctAnswer": "26.2 miles"
+        },
+        {
+            "question": "How many players are on the baseball team?",
+            "answers": [
+                "7",
+                "9",
+                "10"
+            ],
+            "correctAnswer": "9"
+        },
+        {
+            "question": "Which country won the 2018 World Cup?",
+            "answers": [
+                "Switzerland",
+                "UK",
+                "France"
+            ],
+            "correctAnswer": "France"
+        },
+        {
+            "question": "What kind of sport is considered the \"king of sports\"?",
+            "answers": [
+                "Basketball",
+                "Soccer",
+                "Hockey"
+            ],
+            "correctAnswer": "Soccer"
+        },
+        {
+            "question": "What are Canada's two national sports?",
+            "answers": [
+                "Lacrosse and hockey",
+                "American Football",
+                "Archery"
+            ],
+            "correctAnswer": "Lacrosse and hockey"
+        },
+        {
+            "question": "In what sport would you have a touchdown?",
+            "answers": [
+                "American Football",
+                "Chess",
+                "Hockey"
+            ],
+            "correctAnswer": "American Football"
+        },
+        {
+            "question": "In what year did Amir Khan win his Olympic boxing medal?",
+            "answers": [
+                "2001",
+                "2005",
+                "2004"
+            ],
+            "correctAnswer": "2004"
+        },
+        {
+            "question": "What is the diameter of a basketball hoop in inches?",
+            "answers": [
+                "16.5 inches",
+                "17 inches",
+                "18 inches"
+            ],
+            "correctAnswer": "18 inches"
+        },
+        {
+            "question": "Which African country was the first to enter the World Cup?",
+            "answers": [
+                "Nigeria",
+                "Morocco",
+                "Egypt"
+            ],
+            "correctAnswer": "Egypt"
+        },
+        {
+            "question": "Which country hosted the World Athletics Championships for the first time?",
+            "answers": [
+                "Germany",
+                "Helsinki",
+                "Norway"
+            ],
+            "correctAnswer": "Helsinki"
+        },
+        {
+            "question": "What color is the center of the archery target?",
+            "answers": [
+                "Yellow",
+                "Red",
+                "Blue"
+            ],
+            "correctAnswer": "Yellow"
+        },
+        {
+            "question": "What is the length of the race track in an Olympic-sized pool?",
+            "answers": [
+                "43 meters",
+                "50 meters",
+                "65 meters"
+            ],
+            "correctAnswer": "50 meters"
+        }
+    ]
+}
