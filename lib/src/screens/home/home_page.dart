@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../logic/checker_bloc/checker_bloc.dart';
 import '../../logic/network_state/network_state_bloc.dart';
 import '../../logic/remote_config_bloc/remote_config_bloc.dart';
+import '../quiz/quiz_page.dart';
 import '../webview/webview.dart';
 import 'widgets/needs_network_widget.dart';
 
@@ -37,7 +38,7 @@ class _HomePageState extends State<HomePage> {
                           child: CircularProgressIndicator(),
                         );
                       }
-                      return const Center(child: Text('quiz'));
+                      return const QuizPage();
                     } else {
                       return Builder(builder: (context) {
                         return WebViewScreen(
